@@ -1,4 +1,4 @@
-# Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
+# [Личный проект «Кекстаграм»](https://dmitriy-rassol.github.io/kekstagram/) [![Build status][travis-image]][travis-url]
 
 * Студент: [Дима Рассоленко](https://up.htmlacademy.ru/javascript/19/user/303691).
 * Наставник: [Алексей Хапов](https://htmlacademy.ru/profile/id118459).
